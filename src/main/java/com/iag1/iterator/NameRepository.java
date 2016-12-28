@@ -1,7 +1,7 @@
 package com.iag1.iterator;
 
 public class NameRepository implements Container {
-   public String names[] = {"Robert" , "John" ,"Julie" , "Lora"};
+   public String names[] = {"Robert" , "John" ,"Julie" , "Lora", "David"};
 
    public Iterator getIterator() {
       return new NameIterator();
