@@ -1,4 +1,4 @@
-package com.iag1.template;
+package com.iag1.templateMethod;
 
 public class Football extends Game {
 

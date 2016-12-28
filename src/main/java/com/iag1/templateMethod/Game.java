@@ -1,11 +1,11 @@
-package com.iag1.template;
+package com.iag1.templateMethod;
 
 public abstract class Game {
    abstract void initialize();
    abstract void startPlay();
    abstract void endPlay();
 
-   //template method
+   //templateMethod method
    public final void play(){
 
       //initialize the game
