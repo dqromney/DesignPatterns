@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/atlassian-ide-plugin.xml
+.idea/compiler.xml
+.idea/copyright/
+.idea/dbnavigator.xml
+.idea/description.html
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/project-template.xml
+.idea/workspace.xml
+.ignore
+DesignPatterns.iml
+src/main/resources/
+src/test/
+target/
